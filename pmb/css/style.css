@@ -44,4 +44,6 @@ body {
   background-color: #4a99d7;
 }
 
-
+.box-login h2 {
+  text-align: center;
+}
